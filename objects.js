@@ -1,7 +1,7 @@
 var playlist = new Object();
 
 var updatePlaylist= {
-  playlist:,
-  artistName:,
-  songTitle:,
+  playlist:'Fall',
+  artistName: :'6lack',
+  songTitle:'holy',
 };
