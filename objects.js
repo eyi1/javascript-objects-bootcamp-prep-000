@@ -1,4 +1,4 @@
-var playlist = {};
+var playlist = new Object({artist: 'album'});
 
 var updatePlaylist= {
   playlist:'Fall',
